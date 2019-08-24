@@ -3,7 +3,8 @@ body {
 }
 
 img {
-    width: 300px;
+    width: 80%;
+    height: 20%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -15,7 +16,7 @@ p {
 
 .product-container {
     border: 1px solid lightblue;
-    width: 400px;
+    width: 33%;
     box-shadow: 4px 6px;
 }
 
@@ -28,4 +29,8 @@ p {
 .title {
     border: 1px solid lightblue;
     text-align: center;
+}
+
+.info {
+    font-weight: bold;
 }
