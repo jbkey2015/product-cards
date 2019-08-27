@@ -34,3 +34,16 @@ p {
 .info {
     font-weight: bold;
 }
+
+.description {
+    display: flex;
+    justify-content: center;
+    font-size: .8em;
+}
+
+.availability {
+    display: flex;
+    justify-content: center;
+    color: yellow;
+    background-color: darkgray;
+}
