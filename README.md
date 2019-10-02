@@ -5,7 +5,7 @@ Use this application to view different menu items and see a description of each 
 
 
 ## Screenshots
-![Product Card Preview]()
+![Product Card Preview](https://raw.githubusercontent.com/jbkey2015/product-cards/master/screenshots/Annotation%202019-10-01%20204220.png)
 
 
 
